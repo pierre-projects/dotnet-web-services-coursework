@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<members>
+  <member>
+    <name>demoUser</name>
+    <pwd>1</pwd>
+    <email>demo@example.com</email>
+  </member>
+  <member>
+    <name>testUser</name>
+    <pwd>PW</pwd>
+  </member>
+</members>

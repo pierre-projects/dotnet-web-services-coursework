@@ -1,0 +1,53 @@
+## Visual Studio / .NET build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache / user options
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.VisualState.xml
+*.psess
+*.vsp
+*.vspx
+
+## NuGet — packages.config restores these; never commit them
+packages/
+*.nupkg
+!packages/build/
+
+## Source maps from vendored client libraries
+*.map
+
+## Publish / deployment
+[Pp]ublish/
+*.publishproj
+*.pubxml
+*.pubxml.user
+*.azurePubxml
+PublishScripts/
+
+## Test / coverage
+[Tt]est[Rr]esult*/
+*.coverage
+*.coveragexml
+
+## OS cruft
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+## Misc
+*.tmp
+*.bak
+*~
